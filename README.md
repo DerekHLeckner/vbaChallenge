@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 # VBA Homework - The VBA of Wall Street
 
 ## Background
 
-This challenge uses VBA scripting to analyze real stock market data.
+This challenge uses VBA scripting to analyze real stock market data, track changes on equities across time.
 
 ### Stock market analyst
 
