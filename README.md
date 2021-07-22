@@ -4,11 +4,11 @@
 
 This challenge uses VBA scripting to analyze real stock market data, track changes on equities across time.
 
-### Stock market analyst
+### Stock market analyst challenge
 
 ![stock Market](Images/stockmarket.jpg)
 
-## Instructions
+## Walkthrough
 
 * A script is created to loop through all the stocks for one year and output the following information.
 
